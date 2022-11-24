@@ -699,7 +699,7 @@
     {
       "chainId": 43114,
       "address": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
-      "decimals": 18,
+      "decimals": 9,
       "name": "Wormhole sol",
       "symbol": "SOL",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0/logo.png"
